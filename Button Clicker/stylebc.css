@@ -1,0 +1,65 @@
+.h1 {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f3f3f3;
+} 
+
+.login {
+    background-color: #085394;
+    color: #f3f3f3;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.top {
+    background-color: #ccc;
+    height: 60px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+
+.title {
+    font-size: 3.2rem;
+}
+
+.btn {
+    background-color: bisque;
+    color: black;
+}
+
+.Add {
+    background-color: olivedrab;
+    color: black;
+}
+
+.left {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    height: 250px;
+    width: 400px;
+    border: solid 2px black;
+    margin: 20px;
+    padding: 20px; 
+    float: right;
+}
+
+.right {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    height: 250px;
+    width: 400px;
+    border: solid 2px black;
+    padding: 20px;
+    margin: 20px;
+}

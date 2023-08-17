@@ -1,0 +1,16 @@
+
+<input type="text" name="first_name">
+<input type="text" name="last_name">
+<input type="password" name="password">
+<input type="password" name="password">
+<input type="date" name="dob">
+<input type="radio" name="font">
+<input type="checkbox" name="accept"
+id="accept">
+<input type="submit" 
+value="sign up!">
+<textarea name="comment" cols="20"
+rows="3"></textarea>
+<select name=" ">
+    <option
+Value="" 

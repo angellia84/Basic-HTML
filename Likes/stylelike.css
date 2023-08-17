@@ -1,0 +1,58 @@
+.body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container {
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+}
+
+.top-nav {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-bottom: 2px solid gray;
+}   
+
+.centered {
+    text-align: center;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}    
+
+.left {
+    width: 325px;
+    height: 275px;
+    margin-top: 20PX;
+    border: solid 2PX black;
+}
+
+.box1 {
+    width: 450px;
+    height: 175px;
+    border: solid 2px black;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.box2 {
+    width: 450px;
+    height: 175px;
+    border: solid 2px black;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.box3 {
+    width: 450px;
+    height: 175px;
+    border: solid 2px black;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-top: 30px
+}
